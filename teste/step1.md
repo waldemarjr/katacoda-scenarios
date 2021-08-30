@@ -2,7 +2,7 @@ A partir do terminal a lado direito, execute:
 
 -> Instalação do editor de texto mcedit:
 
-`[apt install mc -y]`{{execute}}
+`apt install mc -y`{{execute}}
 
 -> Crie um diretório chamado webapp1:
 
