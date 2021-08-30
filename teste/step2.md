@@ -13,7 +13,7 @@ FROM php:7.4-apache
 COPY index.php /var/www/html
 ```
 
--> Pressione `F10`{{execute}}, e com as setas de direção, selecione "YES" e pressione ENTER
+-> Pressione ```F10```, e com as setas de direção, selecione "YES" e pressione ENTER
 
 -> Verifique se o arquivo foi criado:
 
