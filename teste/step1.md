@@ -1,16 +1,16 @@
 A partir do terminal a lado direito, execute:
 
 -> Instalação do editor de texto mcedit:
-    #apt install mc -y
+    apt install mc -y
 
 -> Crie um diretório chamado webapp1
-    $ mkdir webapp1
+    mkdir webapp1
 
 -> Acesse/abra o diretório criado
-    $ cd webapp1
+    cd webapp1
 
 -> Crie o arquivo index.hp
-    $ mcedit index.php
+    mcedit index.php
 
 -> Digite o código a seguir:
 
@@ -24,6 +24,6 @@ A partir do terminal a lado direito, execute:
 -> Pressione F10, e com as setas de direção, selecione "YES" e pressione ENTER
 
 -> Verifique se o arquivo foi criado:
-    $ ls -l
+    ls -l
     
 -> Clique no botão CONTINUE
