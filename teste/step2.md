@@ -4,7 +4,7 @@ A partir do terminal a lado direito, execute:
 
 -> Crie o arquivo Dockerfile (observação: D maiúsculo):
 
-`mcedit Dockefiler`{{execute}}
+`mcedit Dockerfile`{{execute}}
 
 -> Digite o código a seguir:
 
