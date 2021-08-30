@@ -2,18 +2,18 @@ A partir do terminal a lado direito, execute:
 
 -> Instalação do editor de texto mcedit:
 
-[apt install mc -y](Terminal)
+`[apt install mc -y]`{{execute}}
 
 -> Crie um diretório chamado webapp1:
 
-```mkdir webapp1```
+`mkdir webapp1`{{execute}}
 
 -> Acesse/abra o diretório criado:
 
-```cd webapp1```
+`cd webapp1`{{execute}}
 
 -> Crie o arquivo index.hp
-```mcedit index.php```
+`mcedit index.php`{{execute}}
 
 -> Digite o código a seguir:
 
@@ -24,10 +24,10 @@ A partir do terminal a lado direito, execute:
       echo "A media dos valores: ".$media;
     ?>
 
--> Pressione F10, e com as setas de direção, selecione "YES" e pressione ENTER
+-> Pressione `F10`{{execute}}, e com as setas de direção, selecione "YES" e pressione ENTER
 
 -> Verifique se o arquivo foi criado:
 
-```ls -l```
+`ls -l`{{execute}}
     
 -> Clique no botão CONTINUE
