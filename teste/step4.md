@@ -4,7 +4,7 @@ A partir do terminal a lado direito, execute as ações:
 
 -> Disparando um container utilizando a imagem chamada webapp-img:v1
 
-`docker container -d  -p 80:80 -t webapp-img:v1`{{execute}}
+`docker container run -d -p 80:80 -t webapp-img:v1`{{execute}}
 
 -> Liste os containers atualmente em execução
 
