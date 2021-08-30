@@ -24,7 +24,7 @@ A partir do terminal a lado direito, execute:
       echo "A media dos valores: ".$media;
     ?>
 
--> Pressione `F10`{{execute}}, e com as setas de direção, selecione "YES" e pressione ENTER
+-> Pressione ```F10```, e com as setas de direção, selecione "YES" e pressione ENTER
 
 -> Verifique se o arquivo foi criado:
 
