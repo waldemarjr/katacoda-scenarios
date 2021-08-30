@@ -1,24 +1,24 @@
 {
   "title": "Docker+Apache+PHP - Aula 1",
-  "description": "teste",
+  "description": "Criando uma imagem Docker com Apache, suporte a PHP e embutindo uma aplicação PHP teste.",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Criando o código PHP",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Criando o Dockerfile",
         "text": "step2.md"
       },
-       {
-        "title": "Step 3",
+      {
+        "title": "Construindo uma nova imagem",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Disparando um novo container",
         "text": "step4.md"
       }
     ],
