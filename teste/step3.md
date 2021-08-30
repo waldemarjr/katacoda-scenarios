@@ -10,11 +10,11 @@ A partir do terminal a lado direito, execute:
 
 -> Construindo nossa imagem (chamada webapp-img:v1)
 
-```docker build -t webapp-img:v1 .```
+`docker build -t webapp-img:v1 .`{{execute}}
 
 -> Lista as imagens existentes no servidor:
 
-```docker images```
+`docker images`{{execute}}
 
 A grande vantagens de imagens de containers, é que diferentemente discos virtuais, elas não armazenam um sistema operacional completo, mas apenas o que as aplicações do container realmente necessitam para funcionar adequadamente.
     
