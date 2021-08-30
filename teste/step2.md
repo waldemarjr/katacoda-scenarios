@@ -1,3 +1,5 @@
+O arquivo Dockefile permite implementar um arquivo de parâmetros, onde cada instrução dele derminará como nossa imagem será construída.
+
 A partir do terminal a lado direito, execute:
 
 -> Crie o arquivo Dockerfile (observação: D maiúsculo):
